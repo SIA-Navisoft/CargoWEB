@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="ISO-8859-4"?>
+<load>
+  <id>180240</id>
+  <callOffId>15083</callOffId>
+  <date>01.12.2023</date>
+  <client>FALCON TIMBER LTD</client>
+  <car>HG 4883; S 70 K</car>
+  <driver>MAREKS BARKOVSKIS</driver>
+  <shipper>KUREKSS SIA</shipper>
+  <source>GRAUDUPI, TÀRGALES PAG., VENTSPILS NOV.</source>
+  <destination>TILBURY</destination>
+  <package>
+    <id>2573002</id>
+    <number>80234647</number>
+    <date>30.11.2023</date>
+    <inventory>NNVT-TILBURY</inventory>
+    <product>T-STUD,S,45x70,C24,E4E,F/J, VAC-VAC</product>
+    <length>3000/160</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>160</pieces>
+    <m3net>1,512</m3net>
+    <m3nom>1,692</m3nom>
+    <lm>480,00</lm>
+    <destination>FT</destination>
+    <marking>5</marking>
+    <reference />
+    <certification>2</certification>
+  </package>
+  <package>
+    <id>2573000</id>
+    <number>80234645</number>
+    <date>30.11.2023</date>
+    <inventory>NNVT-TILBURY</inventory>
+    <product>T-STUD,S,45x70,C24,E4E,F/J, VAC-VAC</product>
+    <length>3000/160</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>160</pieces>
+    <m3net>1,512</m3net>
+    <m3nom>1,692</m3nom>
+    <lm>480,00</lm>
+    <destination>FT</destination>
+    <marking>5</marking>
+    <reference />
+    <certification>2</certification>
+  </package>
+  <package>
+    <id>2572999</id>
+    <number>80234644</number>
+    <date>30.11.2023</date>
+    <inventory>NNVT-TILBURY</inventory>
+    <product>T-STUD,S,45x70,C24,E4E,F/J, VAC-VAC</product>
+    <length>3000/160</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>160</pieces>
+    <m3net>1,512</m3net>
+    <m3nom>1,692</m3nom>
+    <lm>480,00</lm>
+    <destination>FT</destination>
+    <marking>5</marking>
+    <reference />
+    <certification>2</certification>
+  </package>
+  <package>
+    <id>2572997</id>
+    <number>80234642</number>
+    <date>30.11.2023</date>
+    <inventory>NNVT-TILBURY</inventory>
+    <product>T-STUD,S,45x70,C24,E4E,F/J, VAC-VAC</product>
+    <length>3000/160</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>160</pieces>
+    <m3net>1,512</m3net>
+    <m3nom>1,692</m3nom>
+    <lm>480,00</lm>
+    <destination>FT</destination>
+    <marking>5</marking>
+    <reference />
+    <certification>2</certification>
+  </package>
+  <package>
+    <id>2572998</id>
+    <number>80234643</number>
+    <date>30.11.2023</date>
+    <inventory>NNVT-TILBURY</inventory>
+    <product>T-STUD,S,45x70,C24,E4E,F/J, VAC-VAC</product>
+    <length>3000/160</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>160</pieces>
+    <m3net>1,512</m3net>
+    <m3nom>1,692</m3nom>
+    <lm>480,00</lm>
+    <destination>FT</destination>
+    <marking>5</marking>
+    <reference />
+    <certification>2</certification>
+  </package>
+  <package>
+    <id>2573001</id>
+    <number>80234646</number>
+    <date>30.11.2023</date>
+    <inventory>NNVT-TILBURY</inventory>
+    <product>T-STUD,S,45x70,C24,E4E,F/J, VAC-VAC</product>
+    <length>3000/160</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>160</pieces>
+    <m3net>1,512</m3net>
+    <m3nom>1,692</m3nom>
+    <lm>480,00</lm>
+    <destination>FT</destination>
+    <marking>5</marking>
+    <reference />
+    <certification>2</certification>
+  </package>
+</load>
+

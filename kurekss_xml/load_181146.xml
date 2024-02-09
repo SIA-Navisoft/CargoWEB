@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="ISO-8859-4"?>
+<load>
+  <id>181146</id>
+  <callOffId>15140</callOffId>
+  <date>20.12.2023</date>
+  <client>TRAVIS PERKINS TRADING CO LTD</client>
+  <car>HG 4883; S 70 K</car>
+  <driver>MAREKS BARKOVSKIS</driver>
+  <shipper>KUREKSS SIA</shipper>
+  <source>GRAUDUPI, TÀRGALES PAG., VENTSPILS NOV.</source>
+  <destination>TRAVIS</destination>
+  <package>
+    <id>2584753</id>
+    <number>60573682</number>
+    <date>18.12.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>CLS,S,38x63,C24M,4XR3,PAR</product>
+    <length>3000/324</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>324</pieces>
+    <m3net>2,327</m3net>
+    <m3nom>3,645</m3nom>
+    <lm>972,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/23CLS</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2584766</id>
+    <number>60573683</number>
+    <date>18.12.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>CLS,S,38x63,C24M,4XR3,PAR</product>
+    <length>3000/324</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>324</pieces>
+    <m3net>2,327</m3net>
+    <m3nom>3,645</m3nom>
+    <lm>972,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/23CLS</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2584698</id>
+    <number>60573675</number>
+    <date>18.12.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>CLS,S,38x63,C24M,4XR3,PAR</product>
+    <length>2400/324</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>324</pieces>
+    <m3net>1,862</m3net>
+    <m3nom>2,916</m3nom>
+    <lm>777,60</lm>
+    <destination>TRAV</destination>
+    <marking>1/23CLS</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2584884</id>
+    <number>60573701</number>
+    <date>18.12.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>CLS,S,38x63,C24M,4XR3,PAR</product>
+    <length>3000/324</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>324</pieces>
+    <m3net>2,327</m3net>
+    <m3nom>3,645</m3nom>
+    <lm>972,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/23CLS</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2586670</id>
+    <number>80236247</number>
+    <date>20.12.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>STR,S,45x45,S/F,,TREATED (G)</product>
+    <length>4800/220</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>220</pieces>
+    <m3net>2,138</m3net>
+    <m3nom>2,482</m3nom>
+    <lm>1056,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/22</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2586669</id>
+    <number>80236246</number>
+    <date>20.12.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>STR,S,45x45,S/F,,TREATED (G)</product>
+    <length>4800/220</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>220</pieces>
+    <m3net>2,138</m3net>
+    <m3nom>2,482</m3nom>
+    <lm>1056,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/22</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2586673</id>
+    <number>80236249</number>
+    <date>20.12.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>STR,S,45x45,S/F,,TREATED (G)</product>
+    <length>4800/220</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>220</pieces>
+    <m3net>2,138</m3net>
+    <m3nom>2,482</m3nom>
+    <lm>1056,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/22</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2586672</id>
+    <number>80236248</number>
+    <date>20.12.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>STR,S,45x45,S/F,,TREATED (G)</product>
+    <length>4800/220</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>220</pieces>
+    <m3net>2,138</m3net>
+    <m3nom>2,482</m3nom>
+    <lm>1056,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/22</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2586627</id>
+    <number>80236243</number>
+    <date>20.12.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>STR,S,45x45,S/F,,TREATED (G)</product>
+    <length>4800/220</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>220</pieces>
+    <m3net>2,138</m3net>
+    <m3nom>2,482</m3nom>
+    <lm>1056,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/22</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2586626</id>
+    <number>80236242</number>
+    <date>20.12.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>STR,S,45x45,S/F,,TREATED (G)</product>
+    <length>4800/220</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>220</pieces>
+    <m3net>2,138</m3net>
+    <m3nom>2,482</m3nom>
+    <lm>1056,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/22</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2586629</id>
+    <number>80236245</number>
+    <date>20.12.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>STR,S,45x45,S/F,,TREATED (G)</product>
+    <length>4800/220</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>220</pieces>
+    <m3net>2,138</m3net>
+    <m3nom>2,482</m3nom>
+    <lm>1056,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/22</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2586628</id>
+    <number>80236244</number>
+    <date>20.12.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>STR,S,45x45,S/F,,TREATED (G)</product>
+    <length>4800/220</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>220</pieces>
+    <m3net>2,138</m3net>
+    <m3nom>2,482</m3nom>
+    <lm>1056,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/22</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2586687</id>
+    <number>90232612</number>
+    <date>20.12.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>STR,S,45x95,C24M,E4E,TREATED (G)</product>
+    <length>2400/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,129</m3net>
+    <m3nom>1,241</m3nom>
+    <lm>264,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/24</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2586686</id>
+    <number>90232611</number>
+    <date>20.12.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>STR,S,45x95,C24M,E4E,TREATED (G)</product>
+    <length>2400/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,129</m3net>
+    <m3nom>1,241</m3nom>
+    <lm>264,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/24</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2586685</id>
+    <number>90232610</number>
+    <date>20.12.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>STR,S,45x95,C24M,E4E,TREATED (G)</product>
+    <length>2400/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,129</m3net>
+    <m3nom>1,241</m3nom>
+    <lm>264,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/24</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2586684</id>
+    <number>90232609</number>
+    <date>20.12.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>STR,S,45x95,C24M,E4E,TREATED (G)</product>
+    <length>2400/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,129</m3net>
+    <m3nom>1,241</m3nom>
+    <lm>264,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/24</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2586691</id>
+    <number>90232616</number>
+    <date>20.12.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>STR,S,45x95,C24M,E4E,TREATED (G)</product>
+    <length>2400/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,129</m3net>
+    <m3nom>1,241</m3nom>
+    <lm>264,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/24</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2586690</id>
+    <number>90232615</number>
+    <date>20.12.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>STR,S,45x95,C24M,E4E,TREATED (G)</product>
+    <length>2400/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,129</m3net>
+    <m3nom>1,241</m3nom>
+    <lm>264,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/24</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2586689</id>
+    <number>90232614</number>
+    <date>20.12.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>STR,S,45x95,C24M,E4E,TREATED (G)</product>
+    <length>2400/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,129</m3net>
+    <m3nom>1,241</m3nom>
+    <lm>264,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/24</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2586688</id>
+    <number>90232613</number>
+    <date>20.12.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>STR,S,45x95,C24M,E4E,TREATED (G)</product>
+    <length>2400/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,129</m3net>
+    <m3nom>1,241</m3nom>
+    <lm>264,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/24</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2586657</id>
+    <number>90232606</number>
+    <date>20.12.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>STR,S,45x95,C24,E4E,TREATED (G)</product>
+    <length>2400/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,129</m3net>
+    <m3nom>1,241</m3nom>
+    <lm>264,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/24</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2586656</id>
+    <number>90232605</number>
+    <date>20.12.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>STR,S,45x95,C24,E4E,TREATED (G)</product>
+    <length>2400/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,129</m3net>
+    <m3nom>1,241</m3nom>
+    <lm>264,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/24</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2586655</id>
+    <number>90232604</number>
+    <date>20.12.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>STR,S,45x95,C24,E4E,TREATED (G)</product>
+    <length>2400/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,129</m3net>
+    <m3nom>1,241</m3nom>
+    <lm>264,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/24</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2586654</id>
+    <number>90232603</number>
+    <date>20.12.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>STR,S,45x95,C24,E4E,TREATED (G)</product>
+    <length>2400/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,129</m3net>
+    <m3nom>1,241</m3nom>
+    <lm>264,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/24</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2586653</id>
+    <number>90232602</number>
+    <date>20.12.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>STR,S,45x95,C24,E4E,TREATED (G)</product>
+    <length>2400/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,129</m3net>
+    <m3nom>1,241</m3nom>
+    <lm>264,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/24</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2586652</id>
+    <number>90232601</number>
+    <date>20.12.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>STR,S,45x95,C24,E4E,TREATED (G)</product>
+    <length>2400/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,129</m3net>
+    <m3nom>1,241</m3nom>
+    <lm>264,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/24</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2586651</id>
+    <number>90232600</number>
+    <date>20.12.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>STR,S,45x95,C24,E4E,TREATED (G)</product>
+    <length>2400/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,129</m3net>
+    <m3nom>1,241</m3nom>
+    <lm>264,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/24</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2586650</id>
+    <number>90232599</number>
+    <date>20.12.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>STR,S,45x95,C24,E4E,TREATED (G)</product>
+    <length>2400/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,129</m3net>
+    <m3nom>1,241</m3nom>
+    <lm>264,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/24</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+</load>
+

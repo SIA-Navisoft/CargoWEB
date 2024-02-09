@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="ISO-8859-4"?>
+<load>
+  <id>181300</id>
+  <callOffId>15133</callOffId>
+  <date>22.12.2023</date>
+  <client>FALCON TIMBER LTD</client>
+  <car>HG 4883; S 70 K</car>
+  <driver>MAREKS BARKOVSKIS</driver>
+  <shipper>KUREKSS SIA</shipper>
+  <source>GRAUDUPI, TÀRGALES PAG., VENTSPILS NOV.</source>
+  <destination>FALCON</destination>
+  <package>
+    <id>2585762</id>
+    <number>80236116</number>
+    <date>19.12.2023</date>
+    <inventory>NNVT-TILBURY</inventory>
+    <product>STR,P,45x95,C24M,E4E,TREATED (G)</product>
+    <length>3600/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,693</m3net>
+    <m3nom>1,861</m3nom>
+    <lm>396,00</lm>
+    <destination>FT</destination>
+    <marking>4</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2585763</id>
+    <number>80236117</number>
+    <date>19.12.2023</date>
+    <inventory>NNVT-TILBURY</inventory>
+    <product>STR,P,45x95,C24M,E4E,TREATED (G)</product>
+    <length>3600/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,693</m3net>
+    <m3nom>1,861</m3nom>
+    <lm>396,00</lm>
+    <destination>FT</destination>
+    <marking>4</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2585761</id>
+    <number>80236115</number>
+    <date>19.12.2023</date>
+    <inventory>NNVT-TILBURY</inventory>
+    <product>STR,P,45x95,C24M,E4E,TREATED (G)</product>
+    <length>3600/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,693</m3net>
+    <m3nom>1,861</m3nom>
+    <lm>396,00</lm>
+    <destination>FT</destination>
+    <marking>4</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2585760</id>
+    <number>80236114</number>
+    <date>19.12.2023</date>
+    <inventory>NNVT-TILBURY</inventory>
+    <product>STR,P,45x95,C24M,E4E,TREATED (G)</product>
+    <length>3600/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,693</m3net>
+    <m3nom>1,861</m3nom>
+    <lm>396,00</lm>
+    <destination>FT</destination>
+    <marking>4</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2588503</id>
+    <number>80236461</number>
+    <date>22.12.2023</date>
+    <inventory>NNVT-TILBURY</inventory>
+    <product>STR,S,45x95,C24M,E4E,TREATED (G)</product>
+    <length>3000/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,411</m3net>
+    <m3nom>1,551</m3nom>
+    <lm>330,00</lm>
+    <destination>FT</destination>
+    <marking>4</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2588501</id>
+    <number>80236459</number>
+    <date>22.12.2023</date>
+    <inventory>NNVT-TILBURY</inventory>
+    <product>STR,S,45x95,C24M,E4E,TREATED (G)</product>
+    <length>3000/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,411</m3net>
+    <m3nom>1,551</m3nom>
+    <lm>330,00</lm>
+    <destination>FT</destination>
+    <marking>4</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2588486</id>
+    <number>90232897</number>
+    <date>22.12.2023</date>
+    <inventory>NNVT-TILBURY</inventory>
+    <product>STR,S,45x95,C24M,E4E,TREATED (G)</product>
+    <length>3000/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,411</m3net>
+    <m3nom>1,551</m3nom>
+    <lm>330,00</lm>
+    <destination>FT</destination>
+    <marking>4</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2588487</id>
+    <number>90232898</number>
+    <date>22.12.2023</date>
+    <inventory>NNVT-TILBURY</inventory>
+    <product>STR,S,45x95,C24M,E4E,TREATED (G)</product>
+    <length>3000/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,411</m3net>
+    <m3nom>1,551</m3nom>
+    <lm>330,00</lm>
+    <destination>FT</destination>
+    <marking>4</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2585783</id>
+    <number>90232463</number>
+    <date>19.12.2023</date>
+    <inventory>NNVT-TILBURY</inventory>
+    <product>STR,P,45x95,C24M,E4E,TREATED (G)</product>
+    <length>3600/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,693</m3net>
+    <m3nom>1,861</m3nom>
+    <lm>396,00</lm>
+    <destination>FT</destination>
+    <marking>4</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2585784</id>
+    <number>90232464</number>
+    <date>19.12.2023</date>
+    <inventory>NNVT-TILBURY</inventory>
+    <product>STR,P,45x95,C24M,E4E,TREATED (G)</product>
+    <length>3600/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,693</m3net>
+    <m3nom>1,861</m3nom>
+    <lm>396,00</lm>
+    <destination>FT</destination>
+    <marking>4</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2585759</id>
+    <number>80236113</number>
+    <date>19.12.2023</date>
+    <inventory>NNVT-TILBURY</inventory>
+    <product>STR,P,45x95,C24M,E4E,TREATED (G)</product>
+    <length>3600/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,693</m3net>
+    <m3nom>1,861</m3nom>
+    <lm>396,00</lm>
+    <destination>FT</destination>
+    <marking>4</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2585758</id>
+    <number>80236112</number>
+    <date>19.12.2023</date>
+    <inventory>NNVT-TILBURY</inventory>
+    <product>STR,P,45x95,C24M,E4E,TREATED (G)</product>
+    <length>3600/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,693</m3net>
+    <m3nom>1,861</m3nom>
+    <lm>396,00</lm>
+    <destination>FT</destination>
+    <marking>4</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2588299</id>
+    <number>80236445</number>
+    <date>21.12.2023</date>
+    <inventory>NNVT-TILBURY</inventory>
+    <product>STR,P,45x95,C24M,E4E,TREATED (G)</product>
+    <length>3000/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,411</m3net>
+    <m3nom>1,551</m3nom>
+    <lm>330,00</lm>
+    <destination>FT</destination>
+    <marking>4</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2588502</id>
+    <number>80236460</number>
+    <date>22.12.2023</date>
+    <inventory>NNVT-TILBURY</inventory>
+    <product>STR,S,45x95,C24M,E4E,TREATED (G)</product>
+    <length>3000/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,411</m3net>
+    <m3nom>1,551</m3nom>
+    <lm>330,00</lm>
+    <destination>FT</destination>
+    <marking>4</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2588500</id>
+    <number>80236458</number>
+    <date>22.12.2023</date>
+    <inventory>NNVT-TILBURY</inventory>
+    <product>STR,S,45x95,C24M,E4E,TREATED (G)</product>
+    <length>3000/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,411</m3net>
+    <m3nom>1,551</m3nom>
+    <lm>330,00</lm>
+    <destination>FT</destination>
+    <marking>4</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2588298</id>
+    <number>80236444</number>
+    <date>21.12.2023</date>
+    <inventory>NNVT-TILBURY</inventory>
+    <product>STR,P,45x95,C24M,E4E,TREATED (G)</product>
+    <length>3000/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,411</m3net>
+    <m3nom>1,551</m3nom>
+    <lm>330,00</lm>
+    <destination>FT</destination>
+    <marking>4</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2572920</id>
+    <number>90230408</number>
+    <date>30.11.2023</date>
+    <inventory>NNVT-TILBURY</inventory>
+    <product>STR,S,45x145,C24M,E4E,TREATED (G)</product>
+    <length>4800/70</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>70</pieces>
+    <m3net>2,192</m3net>
+    <m3nom>2,369</m3nom>
+    <lm>336,00</lm>
+    <destination>FT</destination>
+    <marking>4</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2588305</id>
+    <number>80236449</number>
+    <date>21.12.2023</date>
+    <inventory>NNVT-TILBURY</inventory>
+    <product>STR,P,45x145,C24M,E4E,TREATED (G)</product>
+    <length>4800/70</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>70</pieces>
+    <m3net>2,192</m3net>
+    <m3nom>2,369</m3nom>
+    <lm>336,00</lm>
+    <destination>FT</destination>
+    <marking>4</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2588622</id>
+    <number>80236485</number>
+    <date>22.12.2023</date>
+    <inventory>NNVT-TILBURY</inventory>
+    <product>STR,P,45x145,C24M,E4E,TREATED (G)</product>
+    <length>4800/70</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>70</pieces>
+    <m3net>2,192</m3net>
+    <m3nom>2,369</m3nom>
+    <lm>336,00</lm>
+    <destination>FT</destination>
+    <marking>4</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2588621</id>
+    <number>80236484</number>
+    <date>22.12.2023</date>
+    <inventory>NNVT-TILBURY</inventory>
+    <product>STR,P,45x145,C24M,E4E,TREATED (G)</product>
+    <length>4800/70</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>70</pieces>
+    <m3net>2,192</m3net>
+    <m3nom>2,369</m3nom>
+    <lm>336,00</lm>
+    <destination>FT</destination>
+    <marking>4</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2588619</id>
+    <number>80236482</number>
+    <date>22.12.2023</date>
+    <inventory>NNVT-TILBURY</inventory>
+    <product>STR,P,45x145,C24M,E4E,TREATED (G)</product>
+    <length>4800/70</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>70</pieces>
+    <m3net>2,192</m3net>
+    <m3nom>2,369</m3nom>
+    <lm>336,00</lm>
+    <destination>FT</destination>
+    <marking>4</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2588620</id>
+    <number>80236483</number>
+    <date>22.12.2023</date>
+    <inventory>NNVT-TILBURY</inventory>
+    <product>STR,P,45x145,C24M,E4E,TREATED (G)</product>
+    <length>4800/70</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>70</pieces>
+    <m3net>2,192</m3net>
+    <m3nom>2,369</m3nom>
+    <lm>336,00</lm>
+    <destination>FT</destination>
+    <marking>4</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2588491</id>
+    <number>90232902</number>
+    <date>22.12.2023</date>
+    <inventory>NNVT-TILBURY</inventory>
+    <product>STR,P,45x220,C24M,E4E,TREATED (G)</product>
+    <length>4800/50</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>50</pieces>
+    <m3net>2,376</m3net>
+    <m3nom>2,538</m3nom>
+    <lm>240,00</lm>
+    <destination>FT</destination>
+    <marking>4</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2584939</id>
+    <number>90232338</number>
+    <date>18.12.2023</date>
+    <inventory>NNVT-TILBURY</inventory>
+    <product>STR,P,45x220,C24M,E4E,TREATED (G)</product>
+    <length>4800/50</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>50</pieces>
+    <m3net>2,376</m3net>
+    <m3nom>2,538</m3nom>
+    <lm>240,00</lm>
+    <destination>FT</destination>
+    <marking>4</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+</load>
+

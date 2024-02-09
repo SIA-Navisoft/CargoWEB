@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="ISO-8859-4"?>
+<load>
+  <id>180504</id>
+  <callOffId>15088</callOffId>
+  <date>07.12.2023</date>
+  <client>NORSILK SASU</client>
+  <car>BC1999; S 70 U</car>
+  <driver>NAURIS FI¦IMONOVS</driver>
+  <shipper>KUREKSS SIA</shipper>
+  <source>GRAUDUPI, TÀRGALES PAG., VENTSPILS NOV.</source>
+  <destination>NORSILK</destination>
+  <package>
+    <id>2576950</id>
+    <number>80235182</number>
+    <date>06.12.2023</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>NORS</destination>
+    <marking>2</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2576949</id>
+    <number>80235181</number>
+    <date>06.12.2023</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>NORS</destination>
+    <marking>2</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2576659</id>
+    <number>80235142</number>
+    <date>06.12.2023</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>NORS</destination>
+    <marking>2</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2576658</id>
+    <number>80235141</number>
+    <date>06.12.2023</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>NORS</destination>
+    <marking>2</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2576661</id>
+    <number>80235144</number>
+    <date>06.12.2023</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>NORS</destination>
+    <marking>2</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2576660</id>
+    <number>80235143</number>
+    <date>06.12.2023</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>NORS</destination>
+    <marking>2</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2576663</id>
+    <number>80235146</number>
+    <date>06.12.2023</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>NORS</destination>
+    <marking>2</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2576662</id>
+    <number>80235145</number>
+    <date>06.12.2023</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>NORS</destination>
+    <marking>2</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2576664</id>
+    <number>80235147</number>
+    <date>06.12.2023</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>NORS</destination>
+    <marking>2</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2576665</id>
+    <number>80235148</number>
+    <date>06.12.2023</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>NORS</destination>
+    <marking>2</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2576619</id>
+    <number>80235130</number>
+    <date>06.12.2023</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>NORS</destination>
+    <marking>2</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2576618</id>
+    <number>80235129</number>
+    <date>06.12.2023</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>NORS</destination>
+    <marking>2</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2576621</id>
+    <number>80235132</number>
+    <date>06.12.2023</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>NORS</destination>
+    <marking>2</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2576620</id>
+    <number>80235131</number>
+    <date>06.12.2023</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>NORS</destination>
+    <marking>2</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2576266</id>
+    <number>80235102</number>
+    <date>05.12.2023</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>NORS</destination>
+    <marking>2</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2576265</id>
+    <number>80235101</number>
+    <date>05.12.2023</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>NORS</destination>
+    <marking>2</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2576270</id>
+    <number>80235106</number>
+    <date>05.12.2023</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>NORS</destination>
+    <marking>2</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2576269</id>
+    <number>80235105</number>
+    <date>05.12.2023</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>NORS</destination>
+    <marking>2</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2576272</id>
+    <number>80235108</number>
+    <date>05.12.2023</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>NORS</destination>
+    <marking>2</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2576271</id>
+    <number>80235107</number>
+    <date>05.12.2023</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>NORS</destination>
+    <marking>2</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2576615</id>
+    <number>80235126</number>
+    <date>06.12.2023</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>NORS</destination>
+    <marking>2</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2576614</id>
+    <number>80235125</number>
+    <date>06.12.2023</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>NORS</destination>
+    <marking>2</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2576617</id>
+    <number>80235128</number>
+    <date>06.12.2023</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>NORS</destination>
+    <marking>2</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2576616</id>
+    <number>80235127</number>
+    <date>06.12.2023</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>NORS</destination>
+    <marking>2</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2576623</id>
+    <number>80235134</number>
+    <date>06.12.2023</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>NORS</destination>
+    <marking>2</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2576622</id>
+    <number>80235133</number>
+    <date>06.12.2023</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>NORS</destination>
+    <marking>2</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2576625</id>
+    <number>80235136</number>
+    <date>06.12.2023</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>NORS</destination>
+    <marking>2</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2576624</id>
+    <number>80235135</number>
+    <date>06.12.2023</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>NORS</destination>
+    <marking>2</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2575393</id>
+    <number>80234994</number>
+    <date>04.12.2023</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>DECK,P,27x145,S/F,6V,TREATED (B)</product>
+    <length>2400/126</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>126</pieces>
+    <m3net>1,184</m3net>
+    <m3nom>1,452</m3nom>
+    <lm>302,40</lm>
+    <destination>NORS</destination>
+    <marking>2</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2575392</id>
+    <number>80234993</number>
+    <date>04.12.2023</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>DECK,P,27x145,S/F,6V,TREATED (B)</product>
+    <length>2400/126</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>126</pieces>
+    <m3net>1,184</m3net>
+    <m3nom>1,452</m3nom>
+    <lm>302,40</lm>
+    <destination>NORS</destination>
+    <marking>2</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+</load>
+

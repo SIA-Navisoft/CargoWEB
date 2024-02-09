@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="ISO-8859-4"?>
+<load>
+  <id>176782</id>
+  <callOffId>14934</callOffId>
+  <date>14.09.2023</date>
+  <client>PROTAC OUEST</client>
+  <car>HG 4883; S 70 K</car>
+  <driver>MAREKS BARKOVSKIS</driver>
+  <shipper>KUREKSS SIA</shipper>
+  <source>GRAUDUPI, TÀRGALES PAG., VENTSPILS NOV.</source>
+  <destination>PROT</destination>
+  <package>
+    <id>2519392</id>
+    <number>80227647</number>
+    <date>09.09.2023</date>
+    <inventory>NNVT-PROTAC</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>PROT</destination>
+    <marking>1</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2519391</id>
+    <number>80227646</number>
+    <date>09.09.2023</date>
+    <inventory>NNVT-PROTAC</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>PROT</destination>
+    <marking>1</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2519390</id>
+    <number>80227645</number>
+    <date>09.09.2023</date>
+    <inventory>NNVT-PROTAC</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>PROT</destination>
+    <marking>1</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2519389</id>
+    <number>80227644</number>
+    <date>09.09.2023</date>
+    <inventory>NNVT-PROTAC</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>PROT</destination>
+    <marking>1</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2519396</id>
+    <number>80227651</number>
+    <date>09.09.2023</date>
+    <inventory>NNVT-PROTAC</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>PROT</destination>
+    <marking>1</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2519395</id>
+    <number>80227650</number>
+    <date>09.09.2023</date>
+    <inventory>NNVT-PROTAC</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>PROT</destination>
+    <marking>1</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2519394</id>
+    <number>80227649</number>
+    <date>09.09.2023</date>
+    <inventory>NNVT-PROTAC</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>PROT</destination>
+    <marking>1</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2519393</id>
+    <number>80227648</number>
+    <date>09.09.2023</date>
+    <inventory>NNVT-PROTAC</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>PROT</destination>
+    <marking>1</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2519399</id>
+    <number>80227654</number>
+    <date>09.09.2023</date>
+    <inventory>NNVT-PROTAC</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>PROT</destination>
+    <marking>1</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2519400</id>
+    <number>80227655</number>
+    <date>09.09.2023</date>
+    <inventory>NNVT-PROTAC</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>PROT</destination>
+    <marking>1</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2519398</id>
+    <number>80227653</number>
+    <date>09.09.2023</date>
+    <inventory>NNVT-PROTAC</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>PROT</destination>
+    <marking>1</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2519397</id>
+    <number>80227652</number>
+    <date>09.09.2023</date>
+    <inventory>NNVT-PROTAC</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>PROT</destination>
+    <marking>1</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2519290</id>
+    <number>80227619</number>
+    <date>09.09.2023</date>
+    <inventory>NNVT-PROTAC</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>PROT</destination>
+    <marking>1</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2519289</id>
+    <number>80227618</number>
+    <date>09.09.2023</date>
+    <inventory>NNVT-PROTAC</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>PROT</destination>
+    <marking>1</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2519288</id>
+    <number>80227617</number>
+    <date>09.09.2023</date>
+    <inventory>NNVT-PROTAC</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>PROT</destination>
+    <marking>1</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2519287</id>
+    <number>80227616</number>
+    <date>09.09.2023</date>
+    <inventory>NNVT-PROTAC</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>PROT</destination>
+    <marking>1</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2519284</id>
+    <number>80227613</number>
+    <date>09.09.2023</date>
+    <inventory>NNVT-PROTAC</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>PROT</destination>
+    <marking>1</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2519283</id>
+    <number>80227612</number>
+    <date>09.09.2023</date>
+    <inventory>NNVT-PROTAC</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>PROT</destination>
+    <marking>1</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2519286</id>
+    <number>80227615</number>
+    <date>09.09.2023</date>
+    <inventory>NNVT-PROTAC</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>PROT</destination>
+    <marking>1</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2519285</id>
+    <number>80227614</number>
+    <date>09.09.2023</date>
+    <inventory>NNVT-PROTAC</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>PROT</destination>
+    <marking>1</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2519280</id>
+    <number>80227609</number>
+    <date>09.09.2023</date>
+    <inventory>NNVT-PROTAC</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>PROT</destination>
+    <marking>1</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2519279</id>
+    <number>80227608</number>
+    <date>09.09.2023</date>
+    <inventory>NNVT-PROTAC</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>PROT</destination>
+    <marking>1</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2519282</id>
+    <number>80227611</number>
+    <date>09.09.2023</date>
+    <inventory>NNVT-PROTAC</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>PROT</destination>
+    <marking>1</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2519281</id>
+    <number>80227610</number>
+    <date>09.09.2023</date>
+    <inventory>NNVT-PROTAC</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>PROT</destination>
+    <marking>1</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2519326</id>
+    <number>80227627</number>
+    <date>09.09.2023</date>
+    <inventory>NNVT-PROTAC</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>PROT</destination>
+    <marking>1</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2519325</id>
+    <number>80227626</number>
+    <date>09.09.2023</date>
+    <inventory>NNVT-PROTAC</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>PROT</destination>
+    <marking>1</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2519323</id>
+    <number>80227624</number>
+    <date>09.09.2023</date>
+    <inventory>NNVT-PROTAC</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>PROT</destination>
+    <marking>1</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2519322</id>
+    <number>80227623</number>
+    <date>09.09.2023</date>
+    <inventory>NNVT-PROTAC</inventory>
+    <product>DECK,P,27x145,S/F,DK16,TREATED (B)</product>
+    <length>2400/128</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>128</pieces>
+    <m3net>1,203</m3net>
+    <m3nom>1,475</m3nom>
+    <lm>307,20</lm>
+    <destination>PROT</destination>
+    <marking>1</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+</load>
+

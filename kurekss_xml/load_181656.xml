@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="ISO-8859-4"?>
+<load>
+  <id>181656</id>
+  <callOffId>15182</callOffId>
+  <date>04.01.2024</date>
+  <client>TRAVIS PERKINS TRADING CO LTD</client>
+  <car>HG 4883; S 70 K</car>
+  <driver>MAREKS BARKOVSKIS</driver>
+  <shipper>KUREKSS SIA</shipper>
+  <source>GRAUDUPI, TÀRGALES PAG., VENTSPILS NOV.</source>
+  <destination>TRAVIS2</destination>
+  <package>
+    <id>2593748</id>
+    <number>80237030</number>
+    <date>03.01.2024</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>STR,P,45x95,C24M,E4E,TREATED (G)</product>
+    <length>3000/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,411</m3net>
+    <m3nom>1,551</m3nom>
+    <lm>330,00</lm>
+    <destination>TRAV2</destination>
+    <marking>2/24</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2593749</id>
+    <number>80237031</number>
+    <date>03.01.2024</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>STR,P,45x95,C24M,E4E,TREATED (G)</product>
+    <length>3000/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,411</m3net>
+    <m3nom>1,551</m3nom>
+    <lm>330,00</lm>
+    <destination>TRAV2</destination>
+    <marking>2/24</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2593747</id>
+    <number>80237029</number>
+    <date>03.01.2024</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>STR,P,45x95,C24M,E4E,TREATED (G)</product>
+    <length>3000/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,411</m3net>
+    <m3nom>1,551</m3nom>
+    <lm>330,00</lm>
+    <destination>TRAV2</destination>
+    <marking>2/24</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2593746</id>
+    <number>80237028</number>
+    <date>03.01.2024</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>STR,P,45x95,C24M,E4E,TREATED (G)</product>
+    <length>3000/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,411</m3net>
+    <m3nom>1,551</m3nom>
+    <lm>330,00</lm>
+    <destination>TRAV2</destination>
+    <marking>2/24</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2593710</id>
+    <number>80237022</number>
+    <date>03.01.2024</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>STR,P,45x95,C24M,E4E,TREATED (G)</product>
+    <length>3000/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,411</m3net>
+    <m3nom>1,551</m3nom>
+    <lm>330,00</lm>
+    <destination>TRAV2</destination>
+    <marking>2/24</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2593708</id>
+    <number>80237020</number>
+    <date>03.01.2024</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>STR,P,45x95,C24M,E4E,TREATED (G)</product>
+    <length>3000/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,411</m3net>
+    <m3nom>1,551</m3nom>
+    <lm>330,00</lm>
+    <destination>TRAV2</destination>
+    <marking>2/24</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2593728</id>
+    <number>90233790</number>
+    <date>03.01.2024</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>STR,P,45x95,C24M,E4E,TREATED (G)</product>
+    <length>3000/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,411</m3net>
+    <m3nom>1,551</m3nom>
+    <lm>330,00</lm>
+    <destination>TRAV2</destination>
+    <marking>2/24</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2593727</id>
+    <number>90233789</number>
+    <date>03.01.2024</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>STR,P,45x95,C24M,E4E,TREATED (G)</product>
+    <length>3000/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,411</m3net>
+    <m3nom>1,551</m3nom>
+    <lm>330,00</lm>
+    <destination>TRAV2</destination>
+    <marking>2/24</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2593844</id>
+    <number>80237051</number>
+    <date>03.01.2024</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>STR,P,45x120,C24M,E4E,TREATED (G)</product>
+    <length>4800/90</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>90</pieces>
+    <m3net>2,333</m3net>
+    <m3nom>2,538</m3nom>
+    <lm>432,00</lm>
+    <destination>TRAV2</destination>
+    <marking>2/25</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2593843</id>
+    <number>80237050</number>
+    <date>03.01.2024</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>STR,P,45x120,C24M,E4E,TREATED (G)</product>
+    <length>4800/90</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>90</pieces>
+    <m3net>2,333</m3net>
+    <m3nom>2,538</m3nom>
+    <lm>432,00</lm>
+    <destination>TRAV2</destination>
+    <marking>2/25</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2593857</id>
+    <number>80237057</number>
+    <date>03.01.2024</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>STR,P,45x120,C24M,E4E,TREATED (G)</product>
+    <length>4800/90</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>90</pieces>
+    <m3net>2,333</m3net>
+    <m3nom>2,538</m3nom>
+    <lm>432,00</lm>
+    <destination>TRAV2</destination>
+    <marking>2/25</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2593855</id>
+    <number>80237056</number>
+    <date>03.01.2024</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>STR,P,45x120,C24M,E4E,TREATED (G)</product>
+    <length>4800/90</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>90</pieces>
+    <m3net>2,333</m3net>
+    <m3nom>2,538</m3nom>
+    <lm>432,00</lm>
+    <destination>TRAV2</destination>
+    <marking>2/25</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2593795</id>
+    <number>80237043</number>
+    <date>03.01.2024</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>STR,P,45x120,C24M,E4E,TREATED (G)</product>
+    <length>4800/90</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>90</pieces>
+    <m3net>2,333</m3net>
+    <m3nom>2,538</m3nom>
+    <lm>432,00</lm>
+    <destination>TRAV2</destination>
+    <marking>2/25</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2593794</id>
+    <number>80237042</number>
+    <date>03.01.2024</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>STR,P,45x120,C24M,E4E,TREATED (G)</product>
+    <length>4800/90</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>90</pieces>
+    <m3net>2,333</m3net>
+    <m3nom>2,538</m3nom>
+    <lm>432,00</lm>
+    <destination>TRAV2</destination>
+    <marking>2/25</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2593842</id>
+    <number>80237049</number>
+    <date>03.01.2024</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>STR,P,45x120,C24M,E4E,TREATED (G)</product>
+    <length>4800/90</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>90</pieces>
+    <m3net>2,333</m3net>
+    <m3nom>2,538</m3nom>
+    <lm>432,00</lm>
+    <destination>TRAV2</destination>
+    <marking>2/25</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2593841</id>
+    <number>80237048</number>
+    <date>03.01.2024</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>STR,P,45x120,C24M,E4E,TREATED (G)</product>
+    <length>4800/90</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>90</pieces>
+    <m3net>2,333</m3net>
+    <m3nom>2,538</m3nom>
+    <lm>432,00</lm>
+    <destination>TRAV2</destination>
+    <marking>2/25</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2591000</id>
+    <number>80236762</number>
+    <date>29.12.2023</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>STR,P,45x145,C24M,E4E,TREATED (G)</product>
+    <length>3600/70</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>70</pieces>
+    <m3net>1,644</m3net>
+    <m3nom>1,777</m3nom>
+    <lm>252,00</lm>
+    <destination>TRAV2</destination>
+    <marking>2/26</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2591001</id>
+    <number>80236763</number>
+    <date>29.12.2023</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>STR,P,45x145,C24M,E4E,TREATED (G)</product>
+    <length>3600/70</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>70</pieces>
+    <m3net>1,644</m3net>
+    <m3nom>1,777</m3nom>
+    <lm>252,00</lm>
+    <destination>TRAV2</destination>
+    <marking>2/26</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2591043</id>
+    <number>90233359</number>
+    <date>29.12.2023</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>STR,S,45x145,C24M,E4E,TREATED (G)</product>
+    <length>3600/70</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>70</pieces>
+    <m3net>1,644</m3net>
+    <m3nom>1,777</m3nom>
+    <lm>252,00</lm>
+    <destination>TRAV2</destination>
+    <marking>2/26</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2591042</id>
+    <number>90233358</number>
+    <date>29.12.2023</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>STR,S,45x145,C24M,E4E,TREATED (G)</product>
+    <length>3600/70</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>70</pieces>
+    <m3net>1,644</m3net>
+    <m3nom>1,777</m3nom>
+    <lm>252,00</lm>
+    <destination>TRAV2</destination>
+    <marking>2/26</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2591044</id>
+    <number>90233360</number>
+    <date>29.12.2023</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>STR,S,45x145,C24M,E4E,TREATED (G)</product>
+    <length>3600/70</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>70</pieces>
+    <m3net>1,644</m3net>
+    <m3nom>1,777</m3nom>
+    <lm>252,00</lm>
+    <destination>TRAV2</destination>
+    <marking>2/26</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2591045</id>
+    <number>90233361</number>
+    <date>29.12.2023</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>STR,S,45x145,C24M,E4E,TREATED (G)</product>
+    <length>3600/70</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>70</pieces>
+    <m3net>1,644</m3net>
+    <m3nom>1,777</m3nom>
+    <lm>252,00</lm>
+    <destination>TRAV2</destination>
+    <marking>2/26</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2591088</id>
+    <number>80236767</number>
+    <date>29.12.2023</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>STR,P,45x145,C24M,E4E,TREATED (G)</product>
+    <length>3600/70</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>70</pieces>
+    <m3net>1,644</m3net>
+    <m3nom>1,777</m3nom>
+    <lm>252,00</lm>
+    <destination>TRAV2</destination>
+    <marking>2/26</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2591087</id>
+    <number>80236766</number>
+    <date>29.12.2023</date>
+    <inventory>NOORD NATIE VENTSPILS TERMINALS</inventory>
+    <product>STR,P,45x145,C24M,E4E,TREATED (G)</product>
+    <length>3600/70</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>70</pieces>
+    <m3net>1,644</m3net>
+    <m3nom>1,777</m3nom>
+    <lm>252,00</lm>
+    <destination>TRAV2</destination>
+    <marking>2/26</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+</load>
+

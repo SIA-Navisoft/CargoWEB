@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="ISO-8859-4"?>
+<load>
+  <id>181114</id>
+  <callOffId>15140</callOffId>
+  <date>20.12.2023</date>
+  <client>TRAVIS PERKINS TRADING CO LTD</client>
+  <car>GM 7118; S 70 N</car>
+  <driver>ANDRIS KRÞMIÑ©</driver>
+  <shipper>KUREKSS SIA</shipper>
+  <source>GRAUDUPI, TÀRGALES PAG., VENTSPILS NOV.</source>
+  <destination>TRAVIS</destination>
+  <package>
+    <id>2507949</id>
+    <number>80226354</number>
+    <date>25.08.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>BATTENS,P,25x50,S/F,,TREATED (G)</product>
+    <length>4800/400</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>SB</exLog>
+    <typeOfBoard>SIDE</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>400</pieces>
+    <m3net>2,400</m3net>
+    <m3nom>2,400</m3nom>
+    <lm>1920,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/255</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2507948</id>
+    <number>80226353</number>
+    <date>25.08.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>BATTENS,P,25x50,S/F,,TREATED (G)</product>
+    <length>4800/400</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>SB</exLog>
+    <typeOfBoard>SIDE</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>400</pieces>
+    <m3net>2,400</m3net>
+    <m3nom>2,400</m3nom>
+    <lm>1920,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/255</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2508467</id>
+    <number>80226427</number>
+    <date>28.08.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>BATTENS,P,25x50,S/F,,TREATED (G)</product>
+    <length>4800/400</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>SB</exLog>
+    <typeOfBoard>SIDE</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>400</pieces>
+    <m3net>2,400</m3net>
+    <m3nom>2,400</m3nom>
+    <lm>1920,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/255</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2507999</id>
+    <number>80226360</number>
+    <date>25.08.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>BATTENS,S,25x50,S/F,,TREATED (G)</product>
+    <length>4800/400</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>SB</exLog>
+    <typeOfBoard>SIDE</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>400</pieces>
+    <m3net>2,400</m3net>
+    <m3nom>2,400</m3nom>
+    <lm>1920,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/255</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2507994</id>
+    <number>80226355</number>
+    <date>25.08.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>BATTENS,S,25x50,S/F,,TREATED (G)</product>
+    <length>4800/400</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>SB</exLog>
+    <typeOfBoard>SIDE</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>400</pieces>
+    <m3net>2,400</m3net>
+    <m3nom>2,400</m3nom>
+    <lm>1920,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/255</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2507995</id>
+    <number>80226356</number>
+    <date>25.08.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>BATTENS,S,25x50,S/F,,TREATED (G)</product>
+    <length>4800/400</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>SB</exLog>
+    <typeOfBoard>SIDE</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>400</pieces>
+    <m3net>2,400</m3net>
+    <m3nom>2,400</m3nom>
+    <lm>1920,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/255</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2528779</id>
+    <number>80229220</number>
+    <date>28.09.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>BATTENS,S,25x50,S/F,,TREATED (G)</product>
+    <length>3600/400</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>SB</exLog>
+    <typeOfBoard>SIDE</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>400</pieces>
+    <m3net>1,800</m3net>
+    <m3nom>1,800</m3nom>
+    <lm>1440,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/255</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2528780</id>
+    <number>80229221</number>
+    <date>28.09.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>BATTENS,S,25x50,S/F,,TREATED (G)</product>
+    <length>3600/400</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>SB</exLog>
+    <typeOfBoard>SIDE</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>400</pieces>
+    <m3net>1,800</m3net>
+    <m3nom>1,800</m3nom>
+    <lm>1440,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/255</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2528795</id>
+    <number>80229225</number>
+    <date>28.09.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>BATTENS,S,25x50,S/F,,TREATED (G)</product>
+    <length>3600/400</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>SB</exLog>
+    <typeOfBoard>SIDE</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>400</pieces>
+    <m3net>1,800</m3net>
+    <m3nom>1,800</m3nom>
+    <lm>1440,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/255</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2508025</id>
+    <number>80226362</number>
+    <date>25.08.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>BATTENS,P,25x50,S/F,,TREATED (G)</product>
+    <length>4800/400</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>SB</exLog>
+    <typeOfBoard>SIDE</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>400</pieces>
+    <m3net>2,400</m3net>
+    <m3nom>2,400</m3nom>
+    <lm>1920,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/255</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2508024</id>
+    <number>80226361</number>
+    <date>25.08.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>BATTENS,P,25x50,S/F,,TREATED (G)</product>
+    <length>4800/400</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>SB</exLog>
+    <typeOfBoard>SIDE</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>400</pieces>
+    <m3net>2,400</m3net>
+    <m3nom>2,400</m3nom>
+    <lm>1920,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/255</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2508029</id>
+    <number>80226366</number>
+    <date>25.08.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>BATTENS,P,25x50,S/F,,TREATED (G)</product>
+    <length>4800/400</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>SB</exLog>
+    <typeOfBoard>SIDE</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>400</pieces>
+    <m3net>2,400</m3net>
+    <m3nom>2,400</m3nom>
+    <lm>1920,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/255</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2520647</id>
+    <number>80227780</number>
+    <date>12.09.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>BATTENS,P,25x50,S/F,,TREATED (G)</product>
+    <length>4800/400</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>SB</exLog>
+    <typeOfBoard>SIDE</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>400</pieces>
+    <m3net>2,400</m3net>
+    <m3nom>2,400</m3nom>
+    <lm>1920,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/255</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2520648</id>
+    <number>80227781</number>
+    <date>12.09.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>BATTENS,P,25x50,S/F,,TREATED (G)</product>
+    <length>4800/400</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>SB</exLog>
+    <typeOfBoard>SIDE</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>400</pieces>
+    <m3net>2,400</m3net>
+    <m3nom>2,400</m3nom>
+    <lm>1920,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/255</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2498112</id>
+    <number>80225127</number>
+    <date>12.08.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>BATTENS,S,25x50,S/F,,TREATED (G)</product>
+    <length>4800/400</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>SB</exLog>
+    <typeOfBoard>SIDE</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>400</pieces>
+    <m3net>2,400</m3net>
+    <m3nom>2,400</m3nom>
+    <lm>1920,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/255</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2528775</id>
+    <number>80229216</number>
+    <date>28.09.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>BATTENS,S,25x50,S/F,,TREATED (G)</product>
+    <length>3600/400</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>SB</exLog>
+    <typeOfBoard>SIDE</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>400</pieces>
+    <m3net>1,800</m3net>
+    <m3nom>1,800</m3nom>
+    <lm>1440,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/255</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2528778</id>
+    <number>80229219</number>
+    <date>28.09.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>BATTENS,S,25x50,S/F,,TREATED (G)</product>
+    <length>3600/400</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>SB</exLog>
+    <typeOfBoard>SIDE</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>400</pieces>
+    <m3net>1,800</m3net>
+    <m3nom>1,800</m3nom>
+    <lm>1440,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/255</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2528777</id>
+    <number>80229218</number>
+    <date>28.09.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>BATTENS,S,25x50,S/F,,TREATED (G)</product>
+    <length>3600/400</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>SB</exLog>
+    <typeOfBoard>SIDE</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>400</pieces>
+    <m3net>1,800</m3net>
+    <m3nom>1,800</m3nom>
+    <lm>1440,00</lm>
+    <destination>TRAV</destination>
+    <marking>1/255</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+</load>
+

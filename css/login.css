@@ -1,0 +1,144 @@
+body, html {
+    height: 100%;
+}
+
+.card-container.card {
+    max-width: 400px;
+	margin-bottom: 10px;
+}
+
+.card-frame.card {
+    max-width: 400px;
+	background-color: white;
+    margin: 0 auto 25px;
+    margin-top: 50px;	
+}
+
+.card {
+    background-color: #00B5AD;
+    padding: 15px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    -moz-box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.3);
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+.form-signin input[type=email],
+.form-signin input[type=password],
+.form-signin input[type=text],
+.form-signin button {
+    width: 100%;
+    display: block;
+    margin-bottom: 10px;
+    z-index: 1;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.forgot-password {
+    color: rgb(104, 145, 162);
+	text-decoration: none;
+}
+
+.forgot-password:hover,
+.forgot-password:active,
+.forgot-password:focus{
+    color: rgb(12, 97, 33);
+	text-decoration: none;
+}
+
+.required-field-block {
+    position: relative;   
+}
+
+.required-field-block .required-icon {
+    display: inline-block;
+    vertical-align: middle;
+    margin: -0.25em 0.25em 0em;
+    background-color: #E8E8E8;
+    border-color: #E8E8E8;
+    padding: 0.5em 0.8em;
+    color: rgba(0, 0, 0, 0.65);
+    text-transform: uppercase;
+    font-weight: normal;
+    border-radius: 0.325em;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-transition: background 0.1s linear;
+    -moz-transition: background 0.1s linear;
+    transition: background 0.1s linear;
+    font-size: 75%;
+}
+	
+.required-field-block .required-icon {
+    background-color: transparent;
+    position: absolute;
+    top: 0em;
+    right: 0em;
+    z-index: 10;
+    margin: 0em;
+    width: 30px;
+    height: 30px;
+    padding: 0em;
+    text-align: center;
+    -webkit-transition: color 0.2s ease;
+    -moz-transition: color 0.2s ease;
+    transition: color 0.2s ease;
+}
+
+.required-field-block .required-icon:after {
+    position: absolute;
+    content: "";
+    right: 1px;
+    top: 1px;
+    z-index: -1;
+    width: 0em;
+    height: 0em;
+    border-top: 0em solid transparent;
+    border-right: 30px solid transparent;
+    border-bottom: 30px solid transparent;
+    border-left: 0em solid transparent;
+    border-right-color: inherit;
+    -webkit-transition: border-color 0.2s ease;
+    -moz-transition: border-color 0.2s ease;
+    transition: border-color 0.2s ease;
+}
+
+.required-field-block .required-icon .text {
+	color: #B80000;
+	font-size: 26px;
+	margin: -3px 0 0 12px;
+}
+
+.inner-addon { 
+    position: relative; 
+}
+
+.inner-addon .glyphicon {
+  position: absolute;
+  padding: 10px;
+  pointer-events: none;
+}
+
+.left-addon .glyphicon  { left:  0px; color: rgba(0, 0, 0, 0.7);}
+.right-addon .glyphicon { right: 0px;}
+
+.left-addon input  { padding-left:  30px; }
+.right-addon input { padding-right: 30px; }
+
+.log-in {
+	color: white; 
+	text-decoration: none;	
+}
+
+.log-in:hover{
+	color: #00B5AD;
+	text-decoration: none;
+}
+
+

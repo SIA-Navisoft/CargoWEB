@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-4"?>
+<load>
+  <id>179274</id>
+  <callOffId>15081</callOffId>
+  <date>10.11.2023</date>
+  <client>FALCON TIMBER LTD</client>
+  <car>HG 4883; S 70 K</car>
+  <driver>MAREKS BARKOVSKIS</driver>
+  <shipper>KUREKSS SIA</shipper>
+  <source>GRAUDUPI, TÀRGALES PAG., VENTSPILS NOV.</source>
+  <destination>TILBURY</destination>
+  <package>
+    <id>2549703</id>
+    <number>80231961</number>
+    <date>01.11.2023</date>
+    <inventory>NNVT-TILBURY</inventory>
+    <product>STR,S,45x170,C24M,E4E,TREATED (G)</product>
+    <length>5400/60</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>60</pieces>
+    <m3net>2,479</m3net>
+    <m3nom>2,665</m3nom>
+    <lm>324,00</lm>
+    <destination>FT</destination>
+    <marking>4</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2549702</id>
+    <number>80231960</number>
+    <date>01.11.2023</date>
+    <inventory>NNVT-TILBURY</inventory>
+    <product>STR,S,45x170,C24M,E4E,TREATED (G)</product>
+    <length>5400/60</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>60</pieces>
+    <m3net>2,479</m3net>
+    <m3nom>2,665</m3nom>
+    <lm>324,00</lm>
+    <destination>FT</destination>
+    <marking>4</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+</load>
+

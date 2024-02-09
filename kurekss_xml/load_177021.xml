@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-4"?>
+<load>
+  <id>177021</id>
+  <callOffId>14968</callOffId>
+  <date>22.09.2023</date>
+  <client>TRAVIS PERKINS TRADING CO LTD</client>
+  <car>HG 4883; S 70 K</car>
+  <driver>MAREKS BARKOVSKIS</driver>
+  <shipper>KUREKSS SIA</shipper>
+  <source>GRAUDUPI, TÀRGALES PAG., VENTSPILS NOV.</source>
+  <destination>TRAV</destination>
+  <package>
+    <id>2526785</id>
+    <number>80228585</number>
+    <date>21.09.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>STR,P,45x220,C24M,E4E,TREATED (G)</product>
+    <length>6000/50</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>50</pieces>
+    <m3net>2,970</m3net>
+    <m3nom>3,173</m3nom>
+    <lm>300,00</lm>
+    <destination>TRAV</destination>
+    <marking>9/29</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2526784</id>
+    <number>80228584</number>
+    <date>21.09.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>STR,P,45x220,C24M,E4E,TREATED (G)</product>
+    <length>6000/50</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>50</pieces>
+    <m3net>2,970</m3net>
+    <m3nom>3,173</m3nom>
+    <lm>300,00</lm>
+    <destination>TRAV</destination>
+    <marking>9/29</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+</load>
+

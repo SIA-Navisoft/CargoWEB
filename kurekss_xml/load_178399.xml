@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="ISO-8859-4"?>
+<load>
+  <id>178399</id>
+  <callOffId>15073</callOffId>
+  <date>25.10.2023</date>
+  <client>PRICE &amp; PIERCE FOREST PRODUCTS LTD</client>
+  <car>GM 7118; S 70 N</car>
+  <driver>IGORS KOVA¦OVS</driver>
+  <shipper>KUREKSS SIA</shipper>
+  <source>GRAUDUPI, TÀRGALES PAG., VENTSPILS NOV.</source>
+  <destination>CREEK</destination>
+  <package>
+    <id>2544006</id>
+    <number>80231281</number>
+    <date>24.10.2023</date>
+    <inventory>NNVT-CREEKSEA</inventory>
+    <product>STR,S,45x45,S/F,,TREATED (G)</product>
+    <length>4800/220</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>220</pieces>
+    <m3net>2,138</m3net>
+    <m3nom>2,482</m3nom>
+    <lm>1056,00</lm>
+    <destination>CREEK</destination>
+    <marking>PP11/22</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2544005</id>
+    <number>80231280</number>
+    <date>24.10.2023</date>
+    <inventory>NNVT-CREEKSEA</inventory>
+    <product>STR,S,45x45,S/F,,TREATED (G)</product>
+    <length>4800/220</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>220</pieces>
+    <m3net>2,138</m3net>
+    <m3nom>2,482</m3nom>
+    <lm>1056,00</lm>
+    <destination>CREEK</destination>
+    <marking>PP11/22</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2544011</id>
+    <number>80231286</number>
+    <date>24.10.2023</date>
+    <inventory>NNVT-CREEKSEA</inventory>
+    <product>STR,S,45x45,S/F,,TREATED (G)</product>
+    <length>4800/220</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>220</pieces>
+    <m3net>2,138</m3net>
+    <m3nom>2,482</m3nom>
+    <lm>1056,00</lm>
+    <destination>CREEK</destination>
+    <marking>PP11/22</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2544012</id>
+    <number>80231287</number>
+    <date>24.10.2023</date>
+    <inventory>NNVT-CREEKSEA</inventory>
+    <product>STR,S,45x45,S/F,,TREATED (G)</product>
+    <length>4800/220</length>
+    <wrapType />
+    <moistureContent>KD</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>220</pieces>
+    <m3net>2,138</m3net>
+    <m3nom>2,482</m3nom>
+    <lm>1056,00</lm>
+    <destination>CREEK</destination>
+    <marking>PP11/22</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2544042</id>
+    <number>90226699</number>
+    <date>24.10.2023</date>
+    <inventory>NNVT-CREEKSEA</inventory>
+    <product>STR,S,45x70,C24M,E4E,TREATED (G)</product>
+    <length>2400/160</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>160</pieces>
+    <m3net>1,210</m3net>
+    <m3nom>1,354</m3nom>
+    <lm>384,00</lm>
+    <destination>CREEK</destination>
+    <marking>PP11/23</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2544041</id>
+    <number>90226698</number>
+    <date>24.10.2023</date>
+    <inventory>NNVT-CREEKSEA</inventory>
+    <product>STR,S,45x70,C24M,E4E,TREATED (G)</product>
+    <length>2400/160</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>160</pieces>
+    <m3net>1,210</m3net>
+    <m3nom>1,354</m3nom>
+    <lm>384,00</lm>
+    <destination>CREEK</destination>
+    <marking>PP11/23</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2544545</id>
+    <number>90226753</number>
+    <date>25.10.2023</date>
+    <inventory>NNVT-CREEKSEA</inventory>
+    <product>STR,S,45x95,C24M,E4E,TREATED (G)</product>
+    <length>2400/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,129</m3net>
+    <m3nom>1,241</m3nom>
+    <lm>264,00</lm>
+    <destination>CREEK</destination>
+    <marking>PP11/24</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2544544</id>
+    <number>90226752</number>
+    <date>25.10.2023</date>
+    <inventory>NNVT-CREEKSEA</inventory>
+    <product>STR,S,45x95,C24M,E4E,TREATED (G)</product>
+    <length>2400/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,129</m3net>
+    <m3nom>1,241</m3nom>
+    <lm>264,00</lm>
+    <destination>CREEK</destination>
+    <marking>PP11/24</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2544622</id>
+    <number>90226761</number>
+    <date>25.10.2023</date>
+    <inventory>NNVT-CREEKSEA</inventory>
+    <product>STR,S,45x95,C24M,E4E,TREATED (G)</product>
+    <length>2400/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,129</m3net>
+    <m3nom>1,241</m3nom>
+    <lm>264,00</lm>
+    <destination>CREEK</destination>
+    <marking>PP11/24</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2544621</id>
+    <number>90226760</number>
+    <date>25.10.2023</date>
+    <inventory>NNVT-CREEKSEA</inventory>
+    <product>STR,S,45x95,C24M,E4E,TREATED (G)</product>
+    <length>2400/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,129</m3net>
+    <m3nom>1,241</m3nom>
+    <lm>264,00</lm>
+    <destination>CREEK</destination>
+    <marking>PP11/24</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2544691</id>
+    <number>90226769</number>
+    <date>25.10.2023</date>
+    <inventory>NNVT-CREEKSEA</inventory>
+    <product>STR,S,45x95,C24M,E4E,TREATED (G)</product>
+    <length>2400/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,129</m3net>
+    <m3nom>1,241</m3nom>
+    <lm>264,00</lm>
+    <destination>CREEK</destination>
+    <marking>PP11/24</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2544690</id>
+    <number>90226768</number>
+    <date>25.10.2023</date>
+    <inventory>NNVT-CREEKSEA</inventory>
+    <product>STR,S,45x95,C24M,E4E,TREATED (G)</product>
+    <length>2400/110</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>110</pieces>
+    <m3net>1,129</m3net>
+    <m3nom>1,241</m3nom>
+    <lm>264,00</lm>
+    <destination>CREEK</destination>
+    <marking>PP11/24</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2544573</id>
+    <number>80231346</number>
+    <date>25.10.2023</date>
+    <inventory>NNVT-CREEKSEA</inventory>
+    <product>STR,S,45x145,C24M,E4E,TREATED (G)</product>
+    <length>4800/70</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>70</pieces>
+    <m3net>2,192</m3net>
+    <m3nom>2,369</m3nom>
+    <lm>336,00</lm>
+    <destination>CREEK</destination>
+    <marking>PP11/26</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2544574</id>
+    <number>80231347</number>
+    <date>25.10.2023</date>
+    <inventory>NNVT-CREEKSEA</inventory>
+    <product>STR,S,45x145,C24M,E4E,TREATED (G)</product>
+    <length>4800/70</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>70</pieces>
+    <m3net>2,192</m3net>
+    <m3nom>2,369</m3nom>
+    <lm>336,00</lm>
+    <destination>CREEK</destination>
+    <marking>PP11/26</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2544618</id>
+    <number>90226757</number>
+    <date>25.10.2023</date>
+    <inventory>NNVT-CREEKSEA</inventory>
+    <product>STR,S,45x145,C24M,E4E,TREATED (G)</product>
+    <length>4800/70</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>70</pieces>
+    <m3net>2,192</m3net>
+    <m3nom>2,369</m3nom>
+    <lm>336,00</lm>
+    <destination>CREEK</destination>
+    <marking>PP11/26</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2544617</id>
+    <number>90226756</number>
+    <date>25.10.2023</date>
+    <inventory>NNVT-CREEKSEA</inventory>
+    <product>STR,S,45x145,C24M,E4E,TREATED (G)</product>
+    <length>4800/70</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>70</pieces>
+    <m3net>2,192</m3net>
+    <m3nom>2,369</m3nom>
+    <lm>336,00</lm>
+    <destination>CREEK</destination>
+    <marking>PP11/26</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2544757</id>
+    <number>80231360</number>
+    <date>25.10.2023</date>
+    <inventory>NNVT-CREEKSEA</inventory>
+    <product>STR,P,45x145,C24M,E4E,TREATED (G)</product>
+    <length>4800/70</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>70</pieces>
+    <m3net>2,192</m3net>
+    <m3nom>2,369</m3nom>
+    <lm>336,00</lm>
+    <destination>CREEK</destination>
+    <marking>PP11/26</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2544758</id>
+    <number>80231361</number>
+    <date>25.10.2023</date>
+    <inventory>NNVT-CREEKSEA</inventory>
+    <product>STR,P,45x145,C24M,E4E,TREATED (G)</product>
+    <length>4800/70</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>70</pieces>
+    <m3net>2,192</m3net>
+    <m3nom>2,369</m3nom>
+    <lm>336,00</lm>
+    <destination>CREEK</destination>
+    <marking>PP11/26</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2541544</id>
+    <number>90226371</number>
+    <date>20.10.2023</date>
+    <inventory>NNVT-CREEKSEA</inventory>
+    <product>STR,S,45x145,C24M,E4E,TREATED (G)</product>
+    <length>4200/70</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>70</pieces>
+    <m3net>1,918</m3net>
+    <m3nom>2,073</m3nom>
+    <lm>294,00</lm>
+    <destination>CREEK</destination>
+    <marking>PP11/26</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2541543</id>
+    <number>90226370</number>
+    <date>20.10.2023</date>
+    <inventory>NNVT-CREEKSEA</inventory>
+    <product>STR,S,45x145,C24M,E4E,TREATED (G)</product>
+    <length>4200/70</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>70</pieces>
+    <m3net>1,918</m3net>
+    <m3nom>2,073</m3nom>
+    <lm>294,00</lm>
+    <destination>CREEK</destination>
+    <marking>PP11/26</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2544747</id>
+    <number>90226773</number>
+    <date>25.10.2023</date>
+    <inventory>NNVT-CREEKSEA</inventory>
+    <product>STR,S,45x145,C24M,E4E,TREATED (G)</product>
+    <length>4800/70</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>70</pieces>
+    <m3net>2,192</m3net>
+    <m3nom>2,369</m3nom>
+    <lm>336,00</lm>
+    <destination>CREEK</destination>
+    <marking>PP11/26</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2544746</id>
+    <number>90226772</number>
+    <date>25.10.2023</date>
+    <inventory>NNVT-CREEKSEA</inventory>
+    <product>STR,S,45x145,C24M,E4E,TREATED (G)</product>
+    <length>4800/70</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>70</pieces>
+    <m3net>2,192</m3net>
+    <m3nom>2,369</m3nom>
+    <lm>336,00</lm>
+    <destination>CREEK</destination>
+    <marking>PP11/26</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2544749</id>
+    <number>90226775</number>
+    <date>25.10.2023</date>
+    <inventory>NNVT-CREEKSEA</inventory>
+    <product>STR,S,45x145,C24M,E4E,TREATED (G)</product>
+    <length>4800/70</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>70</pieces>
+    <m3net>2,192</m3net>
+    <m3nom>2,369</m3nom>
+    <lm>336,00</lm>
+    <destination>CREEK</destination>
+    <marking>PP11/26</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2544748</id>
+    <number>90226774</number>
+    <date>25.10.2023</date>
+    <inventory>NNVT-CREEKSEA</inventory>
+    <product>STR,S,45x145,C24M,E4E,TREATED (G)</product>
+    <length>4800/70</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>70</pieces>
+    <m3net>2,192</m3net>
+    <m3nom>2,369</m3nom>
+    <lm>336,00</lm>
+    <destination>CREEK</destination>
+    <marking>PP11/26</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+</load>
+

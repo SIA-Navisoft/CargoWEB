@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="ISO-8859-4"?>
+<load>
+  <id>176293</id>
+  <callOffId>14934</callOffId>
+  <date>05.09.2023</date>
+  <client>PROTAC OUEST</client>
+  <car>GM 7118; S 70 N</car>
+  <driver>IGORS KOVA¦OVS</driver>
+  <shipper>KUREKSS SIA</shipper>
+  <source>GRAUDUPI, TÀRGALES PAG., VENTSPILS NOV.</source>
+  <destination>PROT</destination>
+  <package>
+    <id>2509794</id>
+    <number>90222060</number>
+    <date>29.08.2023</date>
+    <inventory>NNVT-PROTAC</inventory>
+    <product>PLND,P,45x70,S/F,4XR6,TREATED (G)</product>
+    <length>4200/160</length>
+    <wrapType />
+    <moistureContent>18 +- 2%</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>160</pieces>
+    <m3net>2,117</m3net>
+    <m3nom>2,268</m3nom>
+    <lm>672,00</lm>
+    <destination>PROT</destination>
+    <marking>1</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2509793</id>
+    <number>90222059</number>
+    <date>29.08.2023</date>
+    <inventory>NNVT-PROTAC</inventory>
+    <product>PLND,P,45x70,S/F,4XR6,TREATED (G)</product>
+    <length>4200/160</length>
+    <wrapType />
+    <moistureContent>18 +- 2%</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>160</pieces>
+    <m3net>2,117</m3net>
+    <m3nom>2,268</m3nom>
+    <lm>672,00</lm>
+    <destination>PROT</destination>
+    <marking>1</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2509792</id>
+    <number>90222058</number>
+    <date>29.08.2023</date>
+    <inventory>NNVT-PROTAC</inventory>
+    <product>PLND,P,45x70,S/F,4XR6,TREATED (G)</product>
+    <length>4200/160</length>
+    <wrapType />
+    <moistureContent>18 +- 2%</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>160</pieces>
+    <m3net>2,117</m3net>
+    <m3nom>2,268</m3nom>
+    <lm>672,00</lm>
+    <destination>PROT</destination>
+    <marking>1</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2509791</id>
+    <number>90222057</number>
+    <date>29.08.2023</date>
+    <inventory>NNVT-PROTAC</inventory>
+    <product>PLND,P,45x70,S/F,4XR6,TREATED (G)</product>
+    <length>4200/160</length>
+    <wrapType />
+    <moistureContent>18 +- 2%</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>160</pieces>
+    <m3net>2,117</m3net>
+    <m3nom>2,268</m3nom>
+    <lm>672,00</lm>
+    <destination>PROT</destination>
+    <marking>1</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+</load>
+

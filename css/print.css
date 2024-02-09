@@ -1,0 +1,58 @@
+.tab-row {
+float: left;
+max-width: 2480px;
+width: 100%;
+}
+
+.cell {
+border-right: 1px solid;
+border-top: 1px solid;
+float: left;
+padding: 5px;
+height: 50px;
+}
+.cell-two {
+border-right: 1px solid;
+border-top: 1px solid;
+float: left;
+padding: 5px;
+height: 120px;
+}
+.cell-three {
+border-right: 1px solid;
+border-top: 1px solid;
+float: left;
+padding: 5px;
+height: 15px;
+}
+.cell-three-two {
+border-right: 1px solid;
+border-top: 1px solid;
+float: left;
+padding: 5px;
+height: 29px;
+}
+.cell-four {
+border-right: 1px solid;
+border-top: 1px solid;
+float: left;
+padding: 5px;
+height: 25px;
+}
+.cell-five {
+border-right: 1px solid;
+border-top: 1px solid;
+float: left;
+padding: 5px;
+height: 25px;
+}
+.cell-six {
+border-right: 1px solid;
+border-top: 1px solid;
+float: left;
+padding: 5px;
+height: auto;
+}
+.row {
+  display: flex;
+}
