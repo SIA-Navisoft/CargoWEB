@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-4"?>
+<load>
+  <id>181671</id>
+  <callOffId>15169</callOffId>
+  <date>04.01.2024</date>
+  <client>PRICE &amp; PIERCE FOREST PRODUCTS LTD</client>
+  <car>GM 7118; S 70 N</car>
+  <driver>ANDRIS KRÞMIÑ©</driver>
+  <shipper>KUREKSS SIA</shipper>
+  <source>GRAUDUPI, TÀRGALES PAG., VENTSPILS NOV.</source>
+  <destination>PRICE</destination>
+  <package>
+    <id>2564389</id>
+    <number>80233627</number>
+    <date>20.11.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>STR,S,73x145,C24M,,TREATED (G)</product>
+    <length>4800/49</length>
+    <wrapType />
+    <moistureContent>DRY GRADED</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>49</pieces>
+    <m3net>2,490</m3net>
+    <m3nom>2,646</m3nom>
+    <lm>235,20</lm>
+    <destination>TRAV</destination>
+    <marking>1/36</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+</load>
+

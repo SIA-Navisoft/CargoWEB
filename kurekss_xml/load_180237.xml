@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-4"?>
+<load>
+  <id>180237</id>
+  <callOffId>15109</callOffId>
+  <date>01.12.2023</date>
+  <client>TRAVIS PERKINS TRADING CO LTD</client>
+  <car>GM 7118; S 70 N</car>
+  <driver>IGORS KOVA¦OVS</driver>
+  <shipper>KUREKSS SIA</shipper>
+  <source>GRAUDUPI, TÀRGALES PAG., VENTSPILS NOV.</source>
+  <destination>POOLE</destination>
+  <package>
+    <id>2569993</id>
+    <number>80234361</number>
+    <date>28.11.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>PEGS,S,47x47,UNGRADED,,TREATED (G)</product>
+    <length>600/400</length>
+    <wrapType />
+    <moistureContent>18 +- 2%</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>400</pieces>
+    <m3net>0,530</m3net>
+    <m3nom>0,530</m3nom>
+    <lm>240,00</lm>
+    <destination>TRAV</destination>
+    <marking>11/PEGS</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+  <package>
+    <id>2569994</id>
+    <number>80234362</number>
+    <date>28.11.2023</date>
+    <inventory>NNVT-POOLE</inventory>
+    <product>PEGS,S,47x47,UNGRADED,,TREATED (G)</product>
+    <length>600/400</length>
+    <wrapType />
+    <moistureContent>18 +- 2%</moistureContent>
+    <exLog>0 EX</exLog>
+    <typeOfBoard>CENTER</typeOfBoard>
+    <packageType>LP</packageType>
+    <pieces>400</pieces>
+    <m3net>0,530</m3net>
+    <m3nom>0,530</m3nom>
+    <lm>240,00</lm>
+    <destination>TRAV</destination>
+    <marking>11/PEGS</marking>
+    <reference />
+    <certification>1</certification>
+  </package>
+</load>
+
