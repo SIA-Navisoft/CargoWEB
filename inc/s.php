@@ -1,10 +1,10 @@
 <?php
 
-$DBServer = "localhost";
+$DBServer = "cwdb.sl-cargoweb.svc.cluster.local";
 $DBPort = "3306";
-$DBUser = "root";
-$DBPass = "MySQL2234";
-$DBName = "nnvt";
+$DBUser = "userP1O";
+$DBPass = "Ls47ylCJuVMglm4N";
+$DBName = "cwdb";
 
 $conn = new mysqli($DBServer, $DBUser, $DBPass, $DBName, $DBPort);
 if ($conn->connect_error) {
