@@ -3,7 +3,7 @@
 $DBServer = "cwdb.sl-cargoweb.svc.cluster.local";
 $DBPort = "3306";
 $DBUser = "userP1O";
-$DBPass = "Ls47ylCJuVMglm4N";
+$DBPass = "ybiWxp3S50dWWsHG";
 $DBName = "cwdb";
 
 $conn = new mysqli($DBServer, $DBUser, $DBPass, $DBName, $DBPort);
