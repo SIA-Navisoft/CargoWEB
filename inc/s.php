@@ -1,6 +1,6 @@
 <?php
 
-$DBServer = "10.243.133.140";
+$DBServer = "10.246.238.236";
 $DBPort = "3306";
 $DBUser = "userP1O";
 $DBPass = "ybiWxp3S50dWWsHG";
