@@ -1,6 +1,6 @@
 <?php
 
-$DBServer = "cwdbserver-sl-cargoweb.apps-internal.openshift.development.stena.io";
+$DBServer = "10.243.133.140";
 $DBPort = "3306";
 $DBUser = "userP1O";
 $DBPass = "ybiWxp3S50dWWsHG";
